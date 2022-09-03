@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/96559942/159118020-970a9471-234e-4675-
 ![image](https://user-images.githubusercontent.com/96559942/159118133-66945ecc-9ea7-4647-aeca-a5cb8fd7d1f1.png)
 右键目标元素就可以复制Xpath了
 ![image](https://user-images.githubusercontent.com/96559942/159118147-843a2ccb-47c3-483b-aa60-85dbec6d7de1.png)
+
+在test.zip文件中包含了可运行的代码
